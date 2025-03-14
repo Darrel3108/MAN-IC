@@ -1,0 +1,27 @@
+#First{
+    background-color: yellow;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+
+#Sec{
+    background-color:yellowgreen;
+    text-align: end;
+    
+}
+
+#Third{
+    background-color: red;
+    text-align: justify;
+}
+
+#Fourth{
+    background-color: brown;
+    text-align: right;
+}
+
+#Fifth{
+    background-color: greenyellow;
+    text-align: left;
+}
